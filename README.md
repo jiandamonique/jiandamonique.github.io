@@ -1,8 +1,8 @@
-# jiandamonique.github.io
+# Jianda Monique | Portfolio Repository 🦋
+jiandamonique.github.io
 Blending art, spirit, and tech. Building mutual aid, utility, and whims-full products and services for artists and more. Open source, built in public, built with care.
 -
-# Jianda Monique | Portfolio Repository 🦋
-
+ 
 > *"Blending art, spirit, and tech to facilitate care, equity, & whimsy."*
 
 **Transformative Coder · Full Stack Developer in Training · Jr. Data Scientist · Author · Artist**
