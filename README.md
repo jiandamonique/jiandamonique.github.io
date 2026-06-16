@@ -9,7 +9,7 @@ Blending art, spirit, and tech. Building mutual aid, utility, and whims-full pro
 
 Welcome to the repository for my personal portfolio. This site serves as a digital home for my work at the intersection of data science, community care, and creative expression. 
 
-🌐 **Live Site:** [jiandamonique.github.io](https://jiandamonique.github.io) *(Update this link to your actual GitHub Pages URL)*
+🌐 **Live Site:** [jiandamonique.github.io](https://jiandamonique.github.io) 
 
 ---
 
