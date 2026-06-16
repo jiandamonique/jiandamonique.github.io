@@ -26,17 +26,18 @@ A look into my journey as a Full Stack Developer in training, transformative cod
 
 ### 2. Published Work // My Beautiful Device
 Highlights my cyberpunk sci-fi novel published on March 4, 2026 (*March Forth*). It is a story of mutual aid, analog soul, and the human spirit—penned by a human in 2020.
-* *Themes:* Dystopia, LGBTQ+, Analog Wellness, Anti-Algorithm.
+* *Themes:* Mutual Aid, LGBTQia+, BIPOC Analog Wellness, Love for computing, robots, and resilience.
 
 ### 3. Projects & Code // What I'm Building
 An open-source, build-in-public roadmap of my active and archived work:
-* **Artist Mutual Aid Directory (2026 Revival):** A curated resource directory for BIPOC & LGBTQ+ artists built with foundational HTML/CSS/JS.
-* **2021 Kaggle BIPOC Fellowship Archive:** Data pipeline architecture and project showcase.
+* **Artist Mutual Aid Directory (2026 Revival):** A curated resource directory for BIPOC & LGBTQ+a+ artists built with foundational HTML/CSS/JS.
+* **2021 Kaggle BIPOC Fellowship Archive:** Data pipeline architecture and project showcase which is being iterated 
 * **Open Source: Projects Planning and WIP:** Exploring and planning future open-source contributions, currently starting with QA feedback and issue logging for projects like freeCodeCamp's LearnToCodeRPG.
 * **Medium Publications:** Includes my fellowship dev blog ("Oversharing What's Overlooked") alongside other writings, essays, and reflections.
 
 ### 4. Research & Publications // Scholarly Contributions
-A record of my public health research, epidemiological modeling, and statistical analysis with the UCSF Epidemiology Team (2020–2021).
+Much of my time has been spent helping fortify others' command lines and projects, for which I am exceedingly grateful. It's been a wonderful introduction to codification. 
+A record of my public health research, epidemiological modeling, and statistical analysis with the UCSF Epidemiology Team - including: (work and pubs from 2020–2022+).
 * *Estimating Effective Reproduction Numbers Using Wastewater Data...* (Epidemiology & Infection, 2024)
 * *COVID-19 Surveillance & Epidemiological Modeling* (PubMed Central)
 * 🏆 *Nominated: COVID-19 Data Hero Award*
@@ -44,8 +45,8 @@ A record of my public health research, epidemiological modeling, and statistical
 ### 5. Skills & Tools // What I Work With
 * **Languages:** Python, R, HTML, CSS, JavaScript, PHP, LaTeX, MATLAB
 * **Libraries/Tools:** Pandas, BeautifulSoup, Tidyverse, Jekyll, jQuery, Git/GitHub
-* **Data Science:** Machine Learning, Data Visualization, Statistical Modeling, Epidemiology, Stochastic Systems
-* **Strategy:** Grant Writing, SEO, Project Coordination, Community Outreach, Scientific Writing
+* **Data Science:** Machine Learning, Data Visualization, Statistical Modeling, Epidemiology, Stochastic Systems, Prompt Engineering combined with code
+* **Community:** Grant Writing, SEO, Project Coordination, Community Outreach, Scientific Writing
 
 ### 6. Connect // Presence ~ Prisms
 Links to my wider digital footprint across [GitHub](https://github.com/jiandamonique), [LinkedIn](https://www.linkedin.com/in/jiandamonique), [Medium](https://jiandamonique.medium.com), and [Smashwords](https://www.smashwords.com/profile/view/Jianda_Monique).
